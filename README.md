@@ -2,7 +2,6 @@
 - 👀 I’m interested in competitive programming.
 - 🌱 I’m currently learning web developing(reactjs, expressjs)
 -  I know C,C++,JAVA,JAVASCRIPT,Python
-- 📫 How to reach me ...
 
 <!---
 Sani1189/Sani1189 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
