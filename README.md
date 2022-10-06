@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning web developing(reactjs, expressjs)
 
 Languages and Tools:
-bootstrap c cplusplus css3 express firebase git html5 java javascript mongodb mysql nodejs photoshop python react
+C,C++,JAVA,PYTHON,CSS,JAVASCRIPT,HTML,BOOTSTRAP,EXPRESSjs,REAXTjs
 
 <!---
 Sani1189/Sani1189 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
