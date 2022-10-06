@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Saniul Islam Sani
 - 👀 I’m interested in competitive programming.
 - 🌱 I’m currently learning web developing(reactjs, expressjs)
-- 💞️ I’m looking to collaborate on ...
+-  I know C,C++,JAVA,JAVASCRIPT,Python
 - 📫 How to reach me ...
 
 <!---
