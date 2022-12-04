@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning web developing(reactjs, expressjs)
 
 Languages and Tools:
-C,C++,JAVA,PYTHON,CSS,JAVASCRIPT,HTML,BOOTSTRAP,EXPRESSjs,REAXTjs
+C,C++,JAVA,PYTHON,CSS,JAVASCRIPT,HTML,BOOTSTRAP,EXPRESSjs,REACTjs
 
 <!---
 Sani1189/Sani1189 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
