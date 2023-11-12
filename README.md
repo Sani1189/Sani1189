@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Saniul Islam Sani
 - 👀 I’m interested in competitive programming.
-- 🌱 I’m currently learning web developing(reactjs, expressjs)
+- 🌱 Web developer
 
 Languages and Tools:
 C,C++,JAVA,PYTHON,CSS,JAVASCRIPT,HTML,BOOTSTRAP,EXPRESSjs,REACTjs
